@@ -1,0 +1,15 @@
+.venv/
+
+__pycache__/
+*.pyc
+
+*.pkl
+*.pth
+*.onnx
+*.h5
+data/
+models/
+
+.env
+
+.vscode/
