@@ -7,9 +7,10 @@ __pycache__/
 *.pth
 *.onnx
 *.h5
-data/
-models/
 
 .env
 
 .vscode/
+
+**/wandb/
+**/catboost_info/
